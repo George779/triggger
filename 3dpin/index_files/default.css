@@ -1,0 +1,17 @@
+html, body{height:100%;}
+body{margin:0; padding:0; background:#ffffff; font-size:10px;}
+.mainTable{height:100%; width:100%;}
+
+.title{text-align:left; font-family:"Century Gothic", Arial, Verdana, Helvetica, sans-serif; color:#8192a0; font-size:24px; width:640px; padding-bottom:3px;}
+
+.noscriptText{font-family:Arial, Verdana, Helvetica, sans-serif; font-size:1.1em; text-align:center; font-weight:bold; color:#000000;}
+.noscriptText a{color:#a16620;}
+
+.noShockwaveText{font-family:Arial, Verdana, Helvetica, sans-serif; font-size:0.9em; text-align:center; color:#000000;}
+.noShockwaveText a{color:#a16620;}
+
+.text{font-family:Arial, Verdana, Helvetica, sans-serif; text-align:center; color:#a9a9a9; height:25px; padding-top:10px; font-size:11px;}
+.text a{color:#6f83ab; text-decoration:none;}
+.text a span{text-decoration:underline;}
+.text a:hover{color:#1e499f;}
+.text a img{display:inline; vertical-align:middle; border:0; margin-right:2px;}

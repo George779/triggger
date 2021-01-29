@@ -1,0 +1,1 @@
+[#ModelData:"modeldata_packed.png",#TextureData:"texturedata.txt",#P3DAGal:"photos/p3dagal.txt",#NavigationData:"navigation.txt"]
